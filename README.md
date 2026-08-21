@@ -27,8 +27,8 @@ name       : Alen
 role       : Associate Engineer
 company    : Covasant
 location   : India 🇮🇳
-focus      : AI · Backend · Automation
-passion    : Building intelligent, scalable solutions
+focus      : AI · Backend · Automation 
+passion    : Building intelligent, scalable solutions which crash in production
 motto      : "Code with purpose, ship with confidence."
 ```
 
