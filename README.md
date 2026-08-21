@@ -1,16 +1,129 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I'm%20Alen!&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Associate%20Engineer%20%40%20Covasant&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+</div>
 
-<!--
-**BabyAlenCovasant/BabyAlenCovasant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Associate+Engineer+%40+Covasant+%F0%9F%8F%A2;Building+AI+%26+Cloud+Solutions+%F0%9F%A4%96;Turning+ideas+into+intelligent+systems+%E2%9A%A1;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BabyAlenCovasant&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/BabyAlenCovasant?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+<br/>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name       : Alen
+role       : Associate Engineer
+company    : Covasant
+location   : India 🇮🇳
+focus      : AI · Cloud · Automation
+passion    : Building intelligent, scalable solutions
+motto      : "Code with purpose, ship with confidence."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🤖 AI & Frameworks
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BabyAlenCovasant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyAlenCovasant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabyAlenCovasant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BabyAlenCovasant&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabyAlenCovasant&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:baby.alen@covasant.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/BabyAlenCovasant">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alencovasant">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
